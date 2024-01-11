@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=E:\project8\main.ncd
+OUTFILE=E:\project8\main.bit
+FAMILY=Spartan3
+PART=xc3s400-5pq208
+WORKINGDIR=E:\project8
+LICENSE=WebPack
+USER_INFO=__0_0_0

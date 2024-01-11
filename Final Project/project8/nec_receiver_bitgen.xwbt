@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Qazal\Desktop\project8\nec_receiver.ncd
+OUTFILE=C:\Users\Qazal\Desktop\project8\nec_receiver.bit
+FAMILY=Spartan3
+PART=xc3s400-5pq208
+WORKINGDIR=C:\Users\Qazal\Desktop\project8
+LICENSE=WebPack
+USER_INFO=__0_0_0

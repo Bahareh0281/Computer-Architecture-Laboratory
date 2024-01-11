@@ -1,0 +1,13 @@
+NET "gclk" LOC = P184;
+NET "nec_in" LOC = P131;
+NET "gclk" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "reset" LOC = P185;
+NET "last_received_command[0]" LOC = P42;
+NET "last_received_command[1]" LOC = P43;
+NET "last_received_command[2]" LOC = P44;
+NET "last_received_command[3]" LOC = P45;
+NET "last_received_command[4]" LOC = P46;
+NET "last_received_command[5]" LOC = P48;
+NET "last_received_command[6]" LOC = P50;
+NET "last_received_command[7]" LOC = P51;
+NET "key_down" LOC = P61;

@@ -1,0 +1,15 @@
+NET "gclk" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "gclk" LOC = P184;
+NET "plus" LOC = P187;
+NET "minus" LOC = P185;
+NET "led" LOC = P42;
+NET "output[0]" LOC = P10;
+NET "output[1]" LOC = P7;
+NET "output[2]" LOC = P11;
+NET "output[3]" LOC = P5;
+NET "output[4]" LOC = P4;
+NET "output[5]" LOC = P12;
+NET "output[6]" LOC = P9;
+NET "selseg[0]" LOC = P15;
+NET "selseg[1]" LOC = P20;
+NET "selseg[2]" LOC = P19;

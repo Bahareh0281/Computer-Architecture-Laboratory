@@ -1,0 +1,11 @@
+NET "Input1[0]" LOC = P183;
+NET "Input1[1]" LOC = P182;
+NET "Input1[2]" LOC = P181;
+NET "Input1[3]" LOC = P180;
+NET "Input2[0]" LOC = P178;
+NET "Input2[1]" LOC = P176;
+NET "Input2[2]" LOC = P175;
+NET "Input2[3]" LOC = P172;
+NET "GCLK" LOC = P184;
+NET "GCLK" CLOCK_DEDICATED_ROUTE = FALSE;
+NET "TX" LOC = P40;

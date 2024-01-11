@@ -1,0 +1,28 @@
+Command line:
+   nec_receiver_testbench_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  49340
+
+Tue Jan 09 13:51:28 2024
+
+
+ Elaboration Time: 0.124801 sec
+
+ Current Memory Usage: 671.273 Meg
+
+ Total Signals          : 27
+ Total Nets             : 69
+ Total Signal Drivers   : 21
+ Total Blocks           : 4
+ Total Primitive Blocks : 3
+ Total Processes        : 15
+ Total Traceable Variables  : 23
+ Total Scalar Nets and Variables : 706
+
+ Total Simulation Time: 0.140401 sec
+
+ Current Memory Usage: 671.273 Meg
+
+Tue Jan 09 14:32:57 2024
+

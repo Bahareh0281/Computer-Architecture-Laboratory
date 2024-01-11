@@ -1,0 +1,12 @@
+//! **************************************************************************
+// Written by: Map P.20131013 on Sun Jan 07 22:13:30 2024
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "clk_50" LOCATE = SITE "P184" LEVEL 1;
+PIN clk_50_pin<0> = BEL "clk_50" PINNAME PAD;
+PIN "clk_50_pin<0>" CLOCK_DEDICATED_ROUTE = FALSE;
+COMP "irSignal" LOCATE = SITE "P131" LEVEL 1;
+NET "clk_50_BUFGP/IBUFG" BEL "clk_50_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

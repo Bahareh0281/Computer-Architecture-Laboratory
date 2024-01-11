@@ -1,0 +1,6 @@
+EN nec_receiver NULL C:/Users/Qazal/Desktop/project8/main.vhd sub00/vhpl04 1704873884
+AR main behavioral E:/project8/main.vhd sub00/vhpl01 1701848978
+AR nec_receiver asm_with_datapath C:/Users/Qazal/Desktop/project8/main.vhd sub00/vhpl05 1704873885
+EN main NULL E:/project8/main.vhd sub00/vhpl00 1701848977
+EN irreceiver NULL C:/Users/Qazal/Desktop/project8/main.vhd sub00/vhpl02 1704652993
+AR irreceiver behavioral C:/Users/Qazal/Desktop/project8/main.vhd sub00/vhpl03 1704652994

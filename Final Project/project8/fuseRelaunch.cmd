@@ -1,1 +1,0 @@
--intstyle "ise" -incremental -o "C:/Users/Qazal/Desktop/project8/nec_receiver_isim_beh.exe" -prj "C:/Users/Qazal/Desktop/project8/nec_receiver_beh.prj" "work.nec_receiver" 
